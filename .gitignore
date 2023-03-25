@@ -5,5 +5,8 @@ png
 songs
 png
 wav_generated
+bmp_generated
 arss.conf
 generator.pth
+.ipynb_checkpoints
+*.ipynb
