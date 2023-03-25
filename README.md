@@ -34,5 +34,5 @@ After saving the model to a pth file generate.py and subsequently bmp_to_wav.py 
     └── process.py
     └── train.py
 ```
-# Result on celebA
+# Generated Spectrograms using Songs from Tevvez (Popular EDM Artist)
 ![Results](generated_images.png)
