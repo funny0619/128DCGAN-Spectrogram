@@ -35,4 +35,4 @@ After saving the model to a pth file generate.py and subsequently bmp_to_wav.py 
     └── train.py
 ```
 # Result on celebA
-![Results](https://github.com/funny0619/128DCGAN-Spectrogram/blob/master/generated_images.png?raw=true)
+![Results](generated_images.png)
